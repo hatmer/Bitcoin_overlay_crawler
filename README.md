@@ -1,3 +1,1 @@
-Bitcoin Network Crawler
-
-Distributed overlay crawler for research project on the Bitcoin network
+Class project for CS 6452, Datacenter Networks and Services
